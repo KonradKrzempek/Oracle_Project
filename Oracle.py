@@ -11,14 +11,14 @@ mysql_db = mysql.connector.connect(
 )
 cursor = mysql_db.cursor()
 
-print("                                *****          ********      **      ** ")
-print("                               **   **        **             **      ** ")
-print("                              **     **      **              ********** ")
-print("                             ***********     **     *****    **      ** ")
-print("                            **         **     **      **     **      ** ")
-print("                           **           **     ********      **      ** ")
+print("                             *****          ********      **      ** ")
+print("                            **   **        **             **      ** ")
+print("                           **     **      **              ********** ")
+print("                          ***********     **     *****    **      ** ")
+print("                         **         **     **      **     **      ** ")
+print("                        **           **     ********      **      ** ")
 print(" ")
-print("by Mateusz Janik & Konrad Krzempek")
+print("by Mateusz Janik, Konrad Krzempek & Sławomir Kotula")
 time.sleep(5)
 
 
